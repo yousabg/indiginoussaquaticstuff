@@ -1,0 +1,2 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+0196411-230224095556074.csv filter=lfs diff=lfs merge=lfs -text
